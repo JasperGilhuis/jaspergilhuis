@@ -1,7 +1,6 @@
 ✨ Jasper Gilhuis ✨ 
 
 - 💬 Ask me about : DevOps, Agile and GitHub related topics
-- 🐱‍💻 Blog: https://jaspergilhuis.nl
 - 🎵 Music: Foo Fighters - Everlong
 
 
